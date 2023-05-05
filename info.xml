@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <root>
     <mod name="Level Up Gold Mod">
-        <id>0</id>
+        <id>7</id>
         <title>
             <russian>Level Up Gold Mod</russian>
             <english>Level Up Gold Mod</english>
@@ -41,6 +41,6 @@
             <chinese>phoenixweiss</chinese>
             <chinese_t>phoenixweiss</chinese_t>
         </author>
-        <version>0.1</version>
+        <version>0.001</version>
     </mod>
 </root>
