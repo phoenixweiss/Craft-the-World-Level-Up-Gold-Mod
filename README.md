@@ -1,3 +1,5 @@
+![Level Up Gold Mod](/icon.png)
+
 # Level Up Gold Mod
 for **Craft the World** by [Dekovir Entertainment](http://dekovir.com/craft-the-world/)
 
@@ -6,7 +8,7 @@ for **Craft the World** by [Dekovir Entertainment](http://dekovir.com/craft-the-
 This mod for Craft the World adds a free gold to leveling system to enhance gameplay.
 
 **Author:** phoenixweiss  
-**Game version:** 1.9 (may work with older versions, but not older than 1.5), **PC only!**
+**Game version:** 1.906 (may work with older versions, but not older than 1.500), **PC only!**
 
 ## Description:
 The Level Up Gold Mod allows players to receive more gold when leveling up. Each time you reach a new level, you will receive an additional amount of gold that can be used to purchase new equipment at Grunt's shop.
@@ -28,3 +30,5 @@ Compatibility with other mods of a similar theme is not guaranteed.
 - [Craft the World on Steam](http://store.steampowered.com/app/248390)
 - [Craft the World on GOG](https://www.gog.com/ru/game/craft_the_world)
 - [Craft the World on VK Play](https://vkplay.ru/play/game/crafttheworld)
+
+*The logo of the game mod was obtained using the Kandinsky 2.1 neural network by Sber AI and complies with the terms of use. All rights to this image belong to the software authored by the Autonomous Non-Profit Organization "Artificial Intelligence Research Institute" (AIRI). The query used in generation was "icon of a gold coin with a brave and happy dwarf silhouette on it".*
