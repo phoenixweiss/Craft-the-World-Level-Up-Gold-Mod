@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<root>
+    <mod name="Level Up Gold Mod">
+        <id>0</id>
+        <title>
+            <russian>Level Up Gold Mod</russian>
+            <english>Level Up Gold Mod</english>
+            <polish>Level Up Gold Mod</polish>
+            <german>Level Up Gold Mod</german>
+            <french>Level Up Gold Mod</french>
+            <italian>Level Up Gold Mod</italian>
+            <spanish>Level Up Gold Mod</spanish>
+            <japanese>Level Up Gold Mod</japanese>
+            <korean>Level Up Gold Mod</korean>
+            <chinese>Level Up Gold Mod</chinese>
+            <chinese_t>Level Up Gold Mod</chinese_t>
+        </title>
+        <description>
+            <russian>Этот мод для Craft the World добавляет бесплатное золото в систему уровней для улучшения игрового процесса.</russian>
+            <english>This mod for Craft the World adds a free gold to leveling system to enhance gameplay.</english>
+            <polish>Ten mod do Craft the World dodaje darmowe złoto do systemu poziomów, aby poprawić rozgrywkę.</polish>
+            <german>Dieser Mod für Craft the World fügt dem Levelsystem ein kostenloses Gold hinzu, um das Gameplay zu verbessern.</german>
+            <french>Ce mod pour Craft the World ajoute un or gratuit au système de mise à niveau pour améliorer le gameplay.</french>
+            <italian>Questa mod per Craft the World aggiunge un oro gratuito al sistema di livellamento per migliorare il gameplay.</italian>
+            <spanish>Este mod para Craft the World agrega oro gratis al sistema de nivelación para mejorar el juego.</spanish>
+            <japanese>Craft the World のこの mod は、レベリング システムに無料のゴールドを追加して、ゲームプレイを強化します。</japanese>
+            <korean>Craft the World의 이 모드는 레벨링 시스템에 무료 금을 추가하여 게임 플레이를 향상시킵니다.</korean>
+            <chinese>这个 Craft the World 模组为升级系统添加了免费金币，以增强游戏玩法。</chinese>
+            <chinese_t>這個 Craft the World 模組為升級系統添加了免費金幣，以增強遊戲玩法。</chinese_t>
+        </description>
+        <author>
+            <russian>phoenixweiss</russian>
+            <english>phoenixweiss</english>
+            <polish>phoenixweiss</polish>
+            <german>phoenixweiss</german>
+            <french>phoenixweiss</french>
+            <italian>phoenixweiss</italian>
+            <spanish>phoenixweiss</spanish>
+            <japanese>phoenixweiss</japanese>
+            <korean>phoenixweiss</korean>
+            <chinese>phoenixweiss</chinese>
+            <chinese_t>phoenixweiss</chinese_t>
+        </author>
+        <version>0.1</version>
+    </mod>
+</root>
