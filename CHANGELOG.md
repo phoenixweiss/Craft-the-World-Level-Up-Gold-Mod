@@ -1,4 +1,4 @@
-# "Level Up Gold Mod" Changelog
+# "Level Up Gold Mod" - Changelog
 
 [RUSSIAN VERSION](CHANGELOG_RU.md)
 
