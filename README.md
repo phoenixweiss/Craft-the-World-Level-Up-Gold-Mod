@@ -1,6 +1,8 @@
 # Level Up Gold Mod
 for **Craft the World** by [Dekovir Entertainment](http://dekovir.com/craft-the-world/)
 
+[RUSSIAN VERSION](README_RU.md)
+
 This mod for Craft the World adds a free gold to leveling system to enhance gameplay.
 
 **Author:** phoenixweiss  
