@@ -9,12 +9,16 @@ This mod for Craft the World adds a free gold to leveling system to enhance game
 
 - **Author:** phoenixweiss
 - **Game version:** 1.906 (may work with older versions, but not older than 1.500), **PC only!**
-- **Mod version:** 0.001 - [See Changelog](CHANGELOG.md)
+- **Mod version:** 0.002 - [See Changelog](CHANGELOG.md)
 
 ## Description:
 The Level Up Gold Mod allows players to receive more gold when leveling up. Each time you reach a new level, you will receive an additional amount of gold that can be used to purchase new equipment at Grunt's shop.
 
-**In the current version, 5 gold coins are added**
+**Values of added gold for each level in the current version of the mod:**
+
+| Level | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| ----- | - | - | - | - | - | - | - | - | - | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| Gold  | 1 | 2 | 2 | 3 | 5 | 5 | 5 |10 |10 | 10 | 15 | 15 | 15 | 15 | 20 | 20 | 20 | 25 | 25 | 30 |
 
 ## Installation:
 1. Download the latest version from [releases section ↗](https://github.com/phoenixweiss/Craft-the-World-Level-Up-Gold-Mod/releases)
