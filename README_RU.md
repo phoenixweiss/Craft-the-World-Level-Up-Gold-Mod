@@ -17,7 +17,8 @@
 **В текущей версии добавляется 5 золотых монеток**
 
 ## Установка:
-1. Скопируйте содержимое архива `Level Up Gold Mod.zip` в папку игры, например `D:\Games\Craft The World\`.
+1. Скачайте актуальную версию из [раздела релизов ↗](https://github.com/phoenixweiss/Craft-the-World-Level-Up-Gold-Mod/releases)
+1. Скопируйте содержимое архива `Level_Up_Gold_Mod_vX.XXX.zip` в папку игры, например `D:\Games\Craft The World\`.
 2. Создайте подпапку mods, если ее еще нет. Пример полного пути: `D:\Games\Craft The World\mods\Level Up Gold Mod\`.
 3. Запустите мод при новой игре, выбрав в главном меню мод Level Up Gold Mod.
 
