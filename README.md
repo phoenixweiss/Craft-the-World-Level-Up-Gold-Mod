@@ -34,7 +34,7 @@ Compatibility with other mods of a similar theme is not guaranteed.
 
 ## Where to buy the game:
 - [Craft the World on Steam](http://store.steampowered.com/app/248390)
-- [Craft the World on GOG](https://www.gog.com/ru/game/craft_the_world)
+- [Craft the World on GOG](https://www.gog.com/game/craft_the_world)
 - [Craft the World on VK Play](https://vkplay.ru/play/game/crafttheworld)
 
 *The logo of the game mod was obtained using the Kandinsky 2.1 neural network by Sber AI and complies with the terms of use. All rights to this image belong to the software authored by the Autonomous Non-Profit Organization "Artificial Intelligence Research Institute" (AIRI). The query used in generation was "icon of a gold coin with a brave and happy dwarf silhouette on it".*
