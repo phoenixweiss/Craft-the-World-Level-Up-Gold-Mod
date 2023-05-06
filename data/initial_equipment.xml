@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <root>
-    <equip name="money" levels="1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20" include="all" exclude="" slot="-1" count="5" enable_recipe="false" />
+    <equip name="money" levels="1" include="all" exclude="" slot="-1" count="1" enable_recipe="false" />
+    <equip name="money" levels="2" include="all" exclude="" slot="-1" count="2" enable_recipe="false" />
+    <equip name="money" levels="3" include="all" exclude="" slot="-1" count="2" enable_recipe="false" />
+    <equip name="money" levels="4" include="all" exclude="" slot="-1" count="3" enable_recipe="false" />
+    <equip name="money" levels="5" include="all" exclude="" slot="-1" count="5" enable_recipe="false" />
+    <equip name="money" levels="6" include="all" exclude="" slot="-1" count="5" enable_recipe="false" />
+    <equip name="money" levels="7" include="all" exclude="" slot="-1" count="5" enable_recipe="false" />
+    <equip name="money" levels="8" include="all" exclude="" slot="-1" count="10" enable_recipe="false" />
+    <equip name="money" levels="9" include="all" exclude="" slot="-1" count="10" enable_recipe="false" />
+    <equip name="money" levels="10" include="all" exclude="" slot="-1" count="10" enable_recipe="false" />
+    <equip name="money" levels="11" include="all" exclude="" slot="-1" count="15" enable_recipe="false" />
+    <equip name="money" levels="12" include="all" exclude="" slot="-1" count="15" enable_recipe="false" />
+    <equip name="money" levels="13" include="all" exclude="" slot="-1" count="15" enable_recipe="false" />
+    <equip name="money" levels="14" include="all" exclude="" slot="-1" count="15" enable_recipe="false" />
+    <equip name="money" levels="15" include="all" exclude="" slot="-1" count="20" enable_recipe="false" />
+    <equip name="money" levels="16" include="all" exclude="" slot="-1" count="20" enable_recipe="false" />
+    <equip name="money" levels="17" include="all" exclude="" slot="-1" count="20" enable_recipe="false" />
+    <equip name="money" levels="18" include="all" exclude="" slot="-1" count="25" enable_recipe="false" />
+    <equip name="money" levels="19" include="all" exclude="" slot="-1" count="25" enable_recipe="false" />
+    <equip name="money" levels="20" include="all" exclude="" slot="-1" count="30" enable_recipe="false" />
 </root>
