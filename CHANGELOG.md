@@ -2,6 +2,10 @@
 
 [RUSSIAN VERSION](CHANGELOG_RU.md)
 
+## Версия 0.002 - 2023-05-06
+
+- Added a progressive scale for adding gold depending on the level.
+
 ## Version 0.001 - 2023-05-05
 
 - Added initial version of the mod.
