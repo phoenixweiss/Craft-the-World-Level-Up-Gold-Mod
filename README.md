@@ -18,7 +18,7 @@ The Level Up Gold Mod allows players to receive more gold when leveling up. Each
 
 ## Installation:
 1. Download the latest version from [releases section ↗](https://github.com/phoenixweiss/Craft-the-World-Level-Up-Gold-Mod/releases)
-2. Copy the contents of the `Level Up Gold Mod.zip` archive to the game folder, for example `D:\Games\Craft The World\`.
+2. Copy the contents of the `Level_Up_Gold_Mod_vX.XXX.zip` archive to the game folder, for example `D:\Games\Craft The World\`.
 3. Create a subfolder called "mods" if it doesn't already exist. Example full path: `D:\Games\Craft The World\mods\Level Up Gold Mod\`.
 4. Launch the mod when starting a new game by selecting the Level Up Gold Mod in the main menu.
 
