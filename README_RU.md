@@ -34,7 +34,7 @@
 
 ## Где купить игру:
 - [Craft the World в Steam](http://store.steampowered.com/app/248390)
-- [Craft the World в GOG](https://www.gog.com/ru/game/craft_the_world)
+- [Craft the World в GOG](https://www.gog.com/game/craft_the_world)
 - [Craft the World в VK Play](https://vkplay.ru/play/game/crafttheworld)
 
 *Логотип игрового мода был получен при помощи нейросети Kandinsky 2.1 by Sber AI и не противоречит условиям использования. Все права на данное изображение принадлежат программному обеспечению за авторством АНО «Институт Искусственного Интеллекта» (AIRI). Запрос, использованный при генерации: "icon of a gold coin with a brave and happy dwarf silhouette on it"*
